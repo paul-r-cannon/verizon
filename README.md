@@ -4,6 +4,8 @@ For parts 1 and 2 of the assignment, deliverables are located under the "./veriz
 
 For the EXTRA CREDIT portion of the assignment, deliverables are located under the "./verizon/extra_credit" directory and   calibration-related images and files are located under the "./verizon/calibration" directory.  As you will see, my disparity images had large regions that were undefined.  I believe this was because I (naively) set up a scene with large regions of uniform color.  I suspect that significant scene complexity and color variance is required for StereoBM to identify corresponding features effectively.
 
+Here is a demo of the project: https://youtu.be/giVTbWYpT64
+
 <br>Best,
 <br>Paul R. Cannon
 <br>paul_r_cannon@yahoo.com
